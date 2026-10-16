@@ -1,72 +1,118 @@
-# Hi, I'm Uma
+# Hi, I'm Uma Songira 👋
 
 ### Computer Science Student | Software Engineering | Generative AI
 
-I'm a Computer Science student interested in building practical software applications, AI-powered tools, and data-driven solutions. I enjoy learning by building projects and strengthening my programming, problem-solving, and engineering skills.
+I'm a Computer Science student at Renaissance University, Indore, interested in building practical software applications, exploring Generative AI, and solving real-world problems through technology.
 
-Currently, I'm developing my skills in software engineering and Generative AI through hands-on projects and internship experience.
+Currently, I'm gaining hands-on experience through projects and my Generative AI internship at DebugShala, Indore.
 
 ## About Me
 
-- 🎓 Computer Science student at Renaissance University, Indore
-- 💻 Interested in Python, software development, AI, and Generative AI
-- 🤖 Building practical applications and exploring AI-powered solutions
-- 🐧 Learning Linux, system administration, and security fundamentals
-- ☁️ Exploring cloud technologies and modern development workflows
-- 📚 Focused on continuous learning and project-based development
-
-## Featured Projects
-
-### AI Interview Coach
-A web application for practicing role-based technical interviews, reviewing answers, receiving feedback, and tracking interview performance.
-
-[View Project](https://github.com/umasongara376-cmd/ai-interview-coach) · [Live Demo](https://ai-interview-coach-navy-phi.vercel.app)
-
-### Linux Permission Auditor
-A Bash-based tool that audits Linux files and directories for potentially unsafe permissions, including world-writable, SUID, and SGID permissions.
-
-[View Project](https://github.com/umasongara376-cmd/linux-permission-auditor)
-
-### E-Commerce Exploratory Data Analysis
-A Python-based data analysis project involving dataset preparation, data cleaning, exploratory analysis, and visualization.
-
-[View Project](https://github.com/umasongara376-cmd/Ecommerce_EDA_Project)
-
-### Earthquake Dashboard
-A data preparation and visualization project combining Python-based cleaning workflows with a Power BI dashboard.
-
-[View Project](https://github.com/umasongara376-cmd/Earthquake_Dashboard)
+- 🎓 B.Tech Computer Science student at Renaissance University, Indore
+- 🤖 Interested in Generative AI, AI-powered applications, and software engineering
+- 💻 Building projects using Python, JavaScript, web technologies, and data analysis tools
+- 🐧 Exploring Linux, system administration, and security fundamentals
+- ☁️ Learning cloud computing and modern software development practices
+- 🚀 Focused on building practical projects and continuously improving my technical skills
 
 ## Technical Skills
 
-**Programming:** Python, JavaScript, TypeScript, Bash
+**Programming Languages**
+- Python
+- JavaScript
+- TypeScript
+- Bash
 
-**Web Development:** HTML, CSS, React, Next.js
+**Web Development**
+- HTML5, CSS3
+- React.js
+- Next.js
 
-**Data Analysis:** Microsoft Excel, Power BI, pandas, Jupyter Notebook
+**Data Analysis & Visualization**
+- Microsoft Excel
+- Power BI
+- pandas
+- Jupyter Notebook
 
-**Tools & Platforms:** Git, GitHub, Linux, VS Code, Vercel
+**Tools & Platforms**
+- Git and GitHub
+- Linux
+- VS Code
+- Vercel
 
-**Areas of Interest:** Software Engineering, Generative AI, Data Analytics, Cloud Computing
+**Areas of Interest**
+- Generative AI
+- Software Engineering
+- Cloud Computing
+- Data Analytics
+- Linux and Security
 
-> These are skills represented by my current projects and learning experience. I continue to develop them through practical implementation.
+## Featured Projects
 
-## Certifications
+### 1. AI Interview Coach
+A web application designed to help users practice role-based technical interviews, review their answers, receive feedback, and track interview performance.
 
-- Red Hat certification(s)
-- AWS certification(s)
+- **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS
+- [View Repository](https://github.com/umasongara376-cmd/ai-interview-coach)
+- [Live Demo](https://ai-interview-coach-navy-phi.vercel.app)
+
+### 2. Linux Permission Auditor
+A Bash-based security auditing tool that identifies potentially unsafe Linux file and directory permissions, including world-writable, SUID, and SGID permissions.
+
+- **Tech Stack:** Bash, Linux
+- [View Repository](https://github.com/umasongara376-cmd/linux-permission-auditor)
+
+### 3. E-Commerce Exploratory Data Analysis
+A data analysis project focused on preparing data, exploring patterns, and extracting insights from an e-commerce dataset.
+
+- **Tech Stack:** Python, pandas, Jupyter Notebook
+- [View Repository](https://github.com/umasongara376-cmd/Ecommerce_EDA_Project)
+
+### 4. Earthquake Dashboard
+A data preparation and visualization project that combines Python-based data processing with a Power BI dashboard for exploring earthquake data.
+
+- **Tech Stack:** Python, pandas, Power BI
+- [View Repository](https://github.com/umasongara376-cmd/Earthquake_Dashboard)
+
+### 5. Personal Portfolio
+My portfolio repository for presenting my projects, skills, and professional journey.
+
+- **Tech Stack:** HTML, CSS
+- [View Repository](https://github.com/umasongara376-cmd/my_portfolio)
+
+## Certifications & Training
+
+**AWS Academy Graduate — Cloud Foundations**
+- Issued: November 12, 2025
+- Completed: 20 training hours
+- [View Digital Badge on Credly](https://www.credly.com/go/k4dMb0us)
+
+**Red Hat — Python Programming with Red Hat (AD141 - RHA), Version 9.0**
+- Certificate of Attendance
+- Completed: October 28, 2025
+- Credit hours: 32
+
+*Note: The Red Hat document is a certificate of attendance, not necessarily a professional certification.*
 
 ## Experience
 
 **Generative AI Intern — DebugShala, Indore**
 
-Currently developing practical experience in Generative AI and related software development workflows.
+Developing practical experience in Generative AI and software development through hands-on learning and project-based work.
 
 ## Connect With Me
 
-- GitHub: [umasongara376-cmd](https://github.com/umasongara376-cmd)
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/)
+- **GitHub:** [umasongara376-cmd](https://github.com/umasongara376-cmd)
+- **LinkedIn:** [UMA Songira](https://www.linkedin.com/)
+
+## Current Goals
+
+- Strengthen my software engineering and Python development skills
+- Build reliable, well-documented applications
+- Explore practical Generative AI integrations
+- Improve testing, API development, and cloud deployment skills
+- Create projects that demonstrate real-world problem-solving
 
 ---
 
-*I believe in learning by building, improving through feedback, and creating software that solves real-world problems.*
+*Learning by building, improving through feedback, and turning ideas into practical software.*
